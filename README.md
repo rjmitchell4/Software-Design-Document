@@ -1,4 +1,4 @@
-# Software-Design-Document
+# (230) // Software-Design-Document for a Multi-Platform Web App
 Operating Platforms assignment based on development of a software design document for a fictional client, The Gaming Room
 
 In this assignment, I pretended to working as a technology consultant for a company called Creative Technology Solutions. A game development company called "The Gaming Room" had developed a game titled "Draw it or Lose it" for Android and wished for us to help develop an executable gaming environment that would allow them to expand to other platforms and allow cross platform compatibility. The game service required that only a single instance of the gameservice class could be running at once, and it must support multiple players with no repeated usernames.
